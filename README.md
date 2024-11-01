@@ -1,4 +1,5 @@
 # Hortifruit
+pseudo- readme
 Algoritmo Frutinhas
 Trabalho 2 de Algoritmos e Lógica, simula um sistema de compras em C onde o usuário pode adicionar produtos ao carrinho, visualizar e finalizar a compra.
 
