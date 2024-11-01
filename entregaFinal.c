@@ -17,8 +17,8 @@ int autenticar(const char* esperado, const char* mensagem) {
 
 int main() {
     setlocale(LC_ALL, "Portuguese");
-    const char *CUser = "a maioral, duda";
-    const char *CPassword = "venero a maioral";
+    const char *CUser = "a maioral, duda"; //kkkkkkkkkk
+    const char *CPassword = "venero a maioral"; //mudar antes de apresentar
     int tentativas = 3;
     int escolha;
     float totalCompra = 0, valorProduto, precoPorKg, peso, valorPago, troco;
